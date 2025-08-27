@@ -1,0 +1,21 @@
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+dist/
+build/
+
+.env
+
+# Large videos
+public/uploads/ games.mp4
+
+# Large media (ignored)
+docs/uploads/ games.mp4
+docs/uploads/QuizMeUp - FinalDemo.mov
