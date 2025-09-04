@@ -12,10 +12,3 @@ dist/
 build/
 
 .env
-
-# Large videos
-public/uploads/ games.mp4
-
-# Large media (ignored)
-docs/uploads/ games.mp4
-docs/uploads/QuizMeUp - FinalDemo.mov
