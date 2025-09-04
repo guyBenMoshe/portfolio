@@ -10,5 +10,6 @@ yarn-error.log*
 
 dist/
 build/
+public/uploads/games.mp4
 
 .env
